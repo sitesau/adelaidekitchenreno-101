@@ -1,0 +1,22 @@
+{
+  "wheel_id": 110,
+  "slug": "adelaidekitchenreno-101",
+  "project": "small-kitchen-renovations-adelaide-comparison-a-101",
+  "parent_t1_ref": "adelaidekitchenreno-002",
+  "node_role": "feeder",
+  "money_target": "adelaidekitchenreno.com.au",
+  "primary_kw": "small kitchen renovations adelaide comparison",
+  "intended_url": "https://small-kitchen-renovations-adelaide-comparison-a-101.vercel.app/",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/small-kitchen-renovations-adelaide-a-150/index.html",
+      "anchor": "small kitchen renovations adelaide",
+      "rel": "follow"
+    },
+    {
+      "target_url": "https://aumedia.neocities.org/small-kitchen-renovations-adelaide-a-150/index.html",
+      "anchor": "small kitchen renovations adelaide",
+      "rel": "follow"
+    }
+  ]
+}
